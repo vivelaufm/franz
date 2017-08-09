@@ -5,15 +5,15 @@
 > Services >> Lambda 
 
 <br>
-![alt text](./GotoLambda.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/GotoLambda.png)
 
 # 1. Create Lambda Function 
 <br>
-![alt text](./Lambda_1.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_1.png)
 
 # 2. Author from scratch
 <br>
-![alt text](./Lambda_2.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_2.png)
 
 
 # 3. Fill in basic information
@@ -24,7 +24,7 @@
 - Maria Galvez 1997 => MG97
 
 <br>
-![alt text](https://github.com/vivelaufm/franz/tree/master/.imgs/Lambda_3.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_3.png)
 
 
 
@@ -33,23 +33,23 @@
 > Choose ViveLaUFM role
 
 <br>
-![alt text](https://github.com/vivelaufm/franz/tree/master/.imgs/Lambda_3_1.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_3_1.png)
 
 
 # 5. Configure Triggers (next)
 > Click Next
 <br>
-![alt text](https://github.com/vivelaufm/franz/tree/master/.imgs/Lambda_4.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_4.png)
 
 
 # 6. Copy paste main.js into "inline code"
 <br>
-![alt text](https://github.com/vivelaufm/franz/tree/master/.imgs/Lambda_4_1.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_4_1.png)
 
 
 # 7. Review Information (compare it)
 <br>
-![alt text](https://github.com/vivelaufm/franz/tree/master/.imgs/Lambda_5.png)
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_5.png)
 
 
 [back](../README.md)
