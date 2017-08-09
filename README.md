@@ -6,7 +6,7 @@ Vive La UFM's Lex bot
 
 # 1. Login to AWS
 
-https://ufm-edu.signin.aws.amazon.com/console
+https://fce-ufm.signin.aws.amazon.com/console
 
 `user:` located at your desktop (aws.txt)
 
