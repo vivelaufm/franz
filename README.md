@@ -1,4 +1,5 @@
 # Franz
+![alt text](.imgs/Logo.png) 
 
 Vive La UFM's Lex bot
 
