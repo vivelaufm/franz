@@ -6,6 +6,8 @@
 
 <br>
 ![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/GotoLex.png)
+
+
 # 1. Create new Lex bot
 <br>
 ![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lex_1.png)
