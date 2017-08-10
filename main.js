@@ -1,7 +1,6 @@
 "use strict";
  
 
-
 var BotName="Franz"
 
 function getMessage (type) {
@@ -21,7 +20,7 @@ function getMessage (type) {
             which is an event by Universidad Francisco Marroquin `;
                 
         },
- 
+
         'default': function () {
           return 'you know I love you <3' ;
         }
