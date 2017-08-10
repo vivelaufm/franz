@@ -14,7 +14,7 @@
 
 # 2. Create a Custom Bot 
 
-![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lex_2.png "img")
+![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lex_21.png "img")
 
 - `Bot name:` VivaLaUFM_NameLastname
 - `Output voice:` Justin
