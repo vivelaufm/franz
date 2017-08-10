@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
  
 
 
@@ -21,7 +21,6 @@ function getMessage (type) {
             which is an event by Universidad Francisco Marroquin `;
                 
         },
-
  
         'default': function () {
           return 'you know I love you <3' ;
@@ -34,16 +33,6 @@ function getMessage (type) {
 }
 
 
-
-function getDrink (type) {
-  var drinks = {
-    'coke': 'Coke',
-    'pepsi': 'Pepsi',
-    'lemonade': 'Lemonade',
-    'default': 'Default item'
-  };
-  return 'The drink I chose was ' + (drinks[type] || drinks['default']);
-}
 
 
 //DO NOT TOUCH CODE BELOW

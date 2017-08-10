@@ -19,14 +19,13 @@
 
 
 # 3. Fill in basic information
-**NOTE:** Please Fill in with your name Initials and your year of birth:
+**NOTE:** Please Fill in with your NameLastname 
 
 `Examples`:
-- Carlos Perez 1995 => CP95
-- Maria Galvez 1997 => MG97
+- Carlos Perez  => ViveLaUFM_CarlosPerez
+- Maria Galvez  => ViveLaUFM_MariaGalvez
 
 
-![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lambda_3.png "img")
 
 
 

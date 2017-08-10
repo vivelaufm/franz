@@ -16,7 +16,7 @@
 
 ![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lex_2.png "img")
 
-- `Bot name:` VivaLaUFM_Initials
+- `Bot name:` VivaLaUFM_NameLastname
 - `Output voice:` Justin
 - `Session Timeout:` 5 min
 - `COPPA:` No
@@ -24,7 +24,6 @@
 # 3. Add existing intent into new bot
 
 
-![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lex_3.png "img")
 
 > Lex Home >> Intents >> Despacito >> Add to Bot >> Select YOUR bot >>  ADD
 
@@ -39,6 +38,6 @@
 
 ![alt text](https://raw.githubusercontent.com/vivelaufm/franz/master/.imgs/Lex_5.png "img")
 
-> insert "sing"
+> type "sing"
 
 [back](../README.md)
